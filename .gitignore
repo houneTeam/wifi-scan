@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 *.pcap
+=======
+# лог-файлы и папки
+/log/
+logs/
+*.log
+
+# pcap-файлы
+*.pcap
+*.pcapng
+
+# системные/IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+>>>>>>> 3460dfb (Update and Add .gitignore (ignore log folder and pcap files))
